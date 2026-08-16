@@ -20,7 +20,7 @@ would ask:
 — 9,994 order line items / 5,009 unique orders, Jan 2014–Dec 2017, covering
 Sales, Profit, Discount, Category, Sub-Category, Region, and Segment.
 
-The raw file is included at [`data/Sample - Superstore.csv`](data/Sample%20-%20Superstore.csv).
+The raw file is included at [`Sample - Superstore.csv`](Sample%20-%20Superstore.csv).
 
 ## 🛠️ Tools Used
 
